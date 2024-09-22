@@ -1,0 +1,4 @@
+/home/vadim/repository/AEROFLOT/build/CMakeFiles/Aeroflot.dir
+/home/vadim/repository/AEROFLOT/build/CMakeFiles/main.dir
+/home/vadim/repository/AEROFLOT/build/CMakeFiles/edit_cache.dir
+/home/vadim/repository/AEROFLOT/build/CMakeFiles/rebuild_cache.dir
