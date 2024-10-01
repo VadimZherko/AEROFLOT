@@ -1,2 +1,0 @@
-/usr/bin/ar qc libAeroflot.a CMakeFiles/Aeroflot.dir/main.cpp.o
-/usr/bin/ranlib libAeroflot.a
